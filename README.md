@@ -51,9 +51,12 @@
 4. errors
  * the links to social media have a weird problem where their bubbles are not the correct sizes on webpage or phone size
  * the about page header has an overlapping issue when changing resolutions
+ * error in readme where link to wireframes dont work correctly but are added to the project aswell anyways
 
 ## Deployment
-1. 
+1. When deploying my site to github i had run into some problems initially becuase when i rooted it to the main source i was only getting the title i had put on the repository. This was because i hadnt been pushing any commits to github correctly leaving out the git push command which meant nothing was being pushed to github.
+2.  so what this basically means was when i went to the the deployment section in the setting tabs of my repository and i branched my source to main it wasnt working originally because there wasnt anything actually there becuase of the errors made on my end.
+3. Cloning a repository is a tad more complicated. on github navigate to the repository page once again but this time click the down arrow on the button that says code. there you will have three options. HTTPS, SSH or Github CLI. once you have chosen open git bash, then change the dirtectpry to where you want the cloned directory to be. type git clone which the url you copied when choosing one of the three options and then press enter to create your local clone. 
 ## Credits
 * Content
 1. media
