@@ -17,6 +17,7 @@
 2. so as a user if i wanted to go to the home page all i would have to do is click my name at the top left of any of the pages or simply the home button.
 3. if a user wanted to contact my social medias are in the footer for easy access or you can click the contact form and contact me in a more formal sense.
 4. if a user wanted to find out more about me as a person and developer all they would have tot do is click the about button where i have provided personal information and in the future will have any projets i have done and feel wouldbe up to industry standard.
+5. <a href="assets/Wireframes.pdf">Wireframes</a>
 * Design Choices
 1. There wasnt any specific design choices i just wanted to keep it simple to make it easily accessable to anyone and that it wasn't an eyesore to look at.
 ## Features
