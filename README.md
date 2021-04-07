@@ -26,11 +26,37 @@
 3. Multiple ways of contacting me were also provided such as my social links and a ways of submitting an email directly to me.
 * Features left to add
 1. obviously in the future i hope to add more eyecatching designs to the webpage itself.
-2. I alos hope to add more projects and more information about myself as a developer in the future.
+2. I also hope to add more projects and more information about myself as a developer in the future.
+3. in the future i hope to fix some of the little errors i had throughout the creating of the project such as the header on my about page not working correctly and casuing constant overlapping or having different error messages pop up when incorrect details appear in the contact page.
 
 ## Sources and Applications used
+* w3schools
+* slack
+* previous course work
+* stack overflow
 ## Testing
+1. Home page
+ * go to home page
+ * try clicking home tab and see if it takes you There
+ * try to click about tab and see if it brings you There
+ * try to click contact tab and see if it takes you there.
+ * click the download link at the bottom of the page and see if it brings you to a new page with a pdf
+2. about page 
+ * about page is similar to the home page so just test the tab at the top
+3. contact page
+ * test if different page tabs work
+ * test if text bubbles work and allow input
+ * problem at the minute is that the correct errors dont output when clicking the submit button which with the deadline approaching i dont have time to address it.
+4. errors
+ * the links to social media have a weird problem where their bubbles are not the correct sizes on webpage or phone size
+ * the about page header has an overlapping issue when changing resolutions
+
 ## Deployment
+1. 
 ## Credits
 * Content
+1. media
+* the cover photo was taken from pexels.com
+* the other photos are just personal pictures i used myself
 * Acknowledgements
+1. I receieved inspiration for this project from not having a portfolio myself and feeling i need a way to express myself and abilties in a better way than a regular CV
